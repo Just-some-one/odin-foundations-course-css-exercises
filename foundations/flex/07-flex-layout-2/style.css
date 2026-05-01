@@ -46,7 +46,7 @@ body {
 
 .center {
     display: flex;
-    height: calc(100vh - 176px);
+    flex:1;
 }
 
 a {
